@@ -1,0 +1,6 @@
+error.log
+error2.log
+*.log
+dir/
+helo/
+hello1.txt
